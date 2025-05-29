@@ -1,0 +1,22 @@
+{
+  "name": "multitx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "cfonts": "^3.3.0",
+    "chalk": "^5.4.1",
+    "cli-progress": "^3.12.0",
+    "dotenv": "^16.4.7",
+    "ethers": "^6.13.5",
+    "fs": "^0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
