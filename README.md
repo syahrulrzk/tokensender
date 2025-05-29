@@ -28,7 +28,7 @@ Tool CLI untuk mengirim token ZEN (dan token lain) ke banyak alamat sekaligus de
 
 1. Clone repo ini
 ```shell
-git clone https://github.com/syahrulrzk/multisend.git
+git clone https://github.com/syahrulrzk/tokensender.git
 cd multisend
 ```
 
